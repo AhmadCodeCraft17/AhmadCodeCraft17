@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 
 - 🔭 I’m currently studying on a Computer Science
 - 🌱 I’m currently learning new web development technologies
-- 📫 How to reach me: [Email](ahmadowaisi438@gmail.com)
+- 📫 How to reach me: [ahmadowaisi438@gmail.com]
 
 ## Social Links
 
