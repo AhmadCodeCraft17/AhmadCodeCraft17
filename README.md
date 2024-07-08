@@ -13,7 +13,9 @@ Welcome to my GitHub profile! Here’s a bit about me:
 [![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/ahmad.owaisi.73?mibextid=ZbWKwL)
 [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/ahmad_ovessi?igsh=MXY3cGJ3ZTRqZWo5Ng==)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ahmad-mushtaq-87509027a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+<a href="https://www.facebook.com/ahmad.owaisi.73">
+  <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
+</a>
 ## My Skills
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
